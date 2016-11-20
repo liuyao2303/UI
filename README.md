@@ -16,9 +16,8 @@
 #墙材网app部分界面展示
 ##![github](https://github.com/liuyao2303/UI/blob/master/%E5%A2%99%E6%9D%90%E7%BD%91app%E9%83%A8%E5%88%86%E7%95%8C%E9%9D%A2%E5%B1%95%E7%A4%BA.jpg "github")
 
-
-2016-11-20更新
--------------------------------------------------------------------------------------------------------------------------
+#线性图标
+##![github](https://github.com/liuyao2303/UI/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%BE%E6%A0%87.png "github")
 
 #banner-文案修改
 ##![github](https://github.com/liuyao2303/UI/blob/master/banner-%E6%96%87%E6%A1%88%E4%BF%AE%E6%94%B9.png "github")
@@ -40,12 +39,6 @@
 
 #汽车网页面
 ##![github](https://github.com/liuyao2303/UI/blob/master/%E6%B1%BD%E8%BD%A6%E7%BD%91%E9%A1%B5%E9%9D%A2.png "github")
-
-#线性图标
-##![github](https://github.com/liuyao2303/UI/blob/master/%E7%BA%BF%E6%80%A7%E5%9B%BE%E6%A0%87.png "github")
-
-#网页设计1
-##![github](https://github.com/liuyao2303/UI/blob/master/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A11.png "github")
 
 #音乐效果图
 ##![github](https://github.com/liuyao2303/UI/blob/master/%E9%9F%B3%E4%B9%90%E6%95%88%E6%9E%9C%E5%9B%BE.png "github")
